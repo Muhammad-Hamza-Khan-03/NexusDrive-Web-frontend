@@ -78,7 +78,7 @@ NexusDrive is a modern, feature-rich cloud storage solution built with React, Ty
 
 ## Contact
 
-For any inquiries, feel free to reach out via [email@example.com](mailto:email@example.com).
+For any inquiries, feel free to reach out via [email@example.com](mailto:hamzakhan102003@gmail.com).
 
 ---
 This project is a testament to my ability to build scalable, maintainable, and user-friendly web applications. Thank you for taking the time to review it!
